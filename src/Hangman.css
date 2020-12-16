@@ -35,6 +35,11 @@
   font-weight: bold;
 }
 
+#reset {
+  width: auto;
+  display: block;
+  margin: auto;
+}
 .Hangman button {
   border: none;
   font-family: inherit;
