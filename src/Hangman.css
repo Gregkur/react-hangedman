@@ -23,6 +23,9 @@
   margin: 0.4em -1em 0.2em 0;
   font-size: 2rem;
 }
+.Hangman-guesses {
+  font-weight: bold;
+}
 
 .Hangman-btns {
   text-align: center;
